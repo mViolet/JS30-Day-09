@@ -36,8 +36,8 @@ console.assert(p.classList.contains("test"), "Does not contain the class 'test'"
 // console.clear(); 
 
 // Viewing DOM Elements
-console.log(p); //shows you the element
-console.dir(p); //shows you all the methods you can run on that element
+// console.log(p); //shows you the element
+// console.dir(p); //shows you all the methods you can run on that element
 
 // Grouping together
 dogs.forEach(dog => {
